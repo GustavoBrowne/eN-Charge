@@ -1,2 +1,2 @@
 # eN-Charge
-Chargin Location/ advertising
+Charging Location/ advertising
